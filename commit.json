@@ -1,0 +1,84 @@
+[
+    {
+      "sha": "8b78be5f4ae40f720d980ed41075cd11e9eb0814",
+      "node_id": "C_kwDOBfbO8NoAKDhiNzhiZTVmNGFlNDBmNzIwZDk4MGVkNDEwNzVjZDExZTllYjA4MTQ",
+      "commit": {
+        "author": {
+          "name": "Windows Console Service Bot",
+          "email": "14666831+consvc@users.noreply.github.com",
+          "date": "2025-02-05T01:27:22Z"
+        },
+        "committer": {
+          "name": "GitHub",
+          "email": "noreply@github.com",
+          "date": "2025-02-05T01:27:22Z"
+        },
+        "message": "PDP Localization Updates - main - 02/04/2025 00:49:01 (#18504)",
+        "tree": {
+          "sha": "3dd72c7e2bd9768c33acc4a0870ca9006b087833",
+          "url": "https://api.github.com/repos/microsoft/terminal/git/trees/3dd72c7e2bd9768c33acc4a0870ca9006b087833"
+        },
+        "url": "https://api.github.com/repos/microsoft/terminal/git/commits/8b78be5f4ae40f720d980ed41075cd11e9eb0814",
+        "comment_count": 0,
+        "verification": {
+          "verified": true,
+          "reason": "valid",
+          "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJnor56CRC1aQ7uu5UhlAAAXuUQAKgnjKSB/li57sWaYA+3ws/x\naLuB50uKEMkK8m+VRW7seF0TvP+pPEmBUyErRJGsvok+OPc1zgk2Yas0ABxdqJ1Y\n5t1kgFFTzIxScsi+BH4Na+ZutAgfMUpiuZS55jTAItYf9+1DkFkfHqjnyvmJWaFs\ntpDYw6F2AHvFsyf56BbOKzy9MhmAUfDluEfKQgvPylpvlAzQq34eyzhyZa80m6cg\n/EK3hOzs1tmB9eOI5IFVivjG1+ZHgOOR060Kv4CVQehkdztjkadZOsAtbJfQ0T//\nfqCXReRJM91UpgD36EUS9XUaWkZaDpyiy1ah4gObfm9ZaP7EFRAH531EKKrPoVNB\nIHB3M2rhCoLKXEPR6TMq6NhOWCwFUOultJyQ+MvSgp2dKlf6fsJhDiywJcDZSRjn\nauyKij3K+TfK8e3/75uuuLMMCDG5w6mgVgoOK7Uyy9Oys+BBTSLE6KE6R25uOUUA\nHxhYBqigodmSJXYm82YOroT1xYBjCrqMHiFbZLSWSaNBE95R3Ny+NsnYky1L5JF0\nJ5IQuDFpQ2+lT/nMP7H1Z5eRVlh8yAurPFb5kmB+vbcn7RCF8tFWD3I66BMBM6MT\nv+UpeOPZ3l14OkPXY/cMV6/n24t+rzZ9pYLbVb9iKG7NxFMLu3QO0Cs2vuIUmskK\nc0cceHrV+evSqk3ejbA+\n=aemz\n-----END PGP SIGNATURE-----\n",
+          "payload": "tree 3dd72c7e2bd9768c33acc4a0870ca9006b087833\nparent 7423dd3b2a8726631f1c4c0a0c7b5f9fcd7def08\nauthor Windows Console Service Bot \u003C14666831+consvc@users.noreply.github.com\u003E 1738718842 -0600\ncommitter GitHub \u003Cnoreply@github.com\u003E 1738718842 -0600\n\nPDP Localization Updates - main - 02/04/2025 00:49:01 (#18504)\n\n",
+          "verified_at": "2025-02-05T01:27:24Z"
+        }
+      },
+      "url": "https://api.github.com/repos/microsoft/terminal/commits/8b78be5f4ae40f720d980ed41075cd11e9eb0814",
+      "html_url": "https://github.com/microsoft/terminal/commit/8b78be5f4ae40f720d980ed41075cd11e9eb0814",
+      "comments_url": "https://api.github.com/repos/microsoft/terminal/commits/8b78be5f4ae40f720d980ed41075cd11e9eb0814/comments",
+      "author": {
+        "login": "consvc",
+        "id": 14666831,
+        "node_id": "MDQ6VXNlcjE0NjY2ODMx",
+        "avatar_url": "https://avatars.githubusercontent.com/u/14666831?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/consvc",
+        "html_url": "https://github.com/consvc",
+        "followers_url": "https://api.github.com/users/consvc/followers",
+        "following_url": "https://api.github.com/users/consvc/following{/other_user}",
+        "gists_url": "https://api.github.com/users/consvc/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/consvc/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/consvc/subscriptions",
+        "organizations_url": "https://api.github.com/users/consvc/orgs",
+        "repos_url": "https://api.github.com/users/consvc/repos",
+        "events_url": "https://api.github.com/users/consvc/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/consvc/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "web-flow",
+        "id": 19864447,
+        "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+        "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/web-flow",
+        "html_url": "https://github.com/web-flow",
+        "followers_url": "https://api.github.com/users/web-flow/followers",
+        "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+        "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+        "organizations_url": "https://api.github.com/users/web-flow/orgs",
+        "repos_url": "https://api.github.com/users/web-flow/repos",
+        "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/web-flow/received_events",
+        "type": "User",
+        "user_view_type": "public",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "7423dd3b2a8726631f1c4c0a0c7b5f9fcd7def08",
+          "url": "https://api.github.com/repos/microsoft/terminal/commits/7423dd3b2a8726631f1c4c0a0c7b5f9fcd7def08",
+          "html_url": "https://github.com/microsoft/terminal/commit/7423dd3b2a8726631f1c4c0a0c7b5f9fcd7def08"
+        }
+      ]
+    }
+  ]
