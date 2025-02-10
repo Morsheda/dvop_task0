@@ -1,0 +1,21 @@
+name: Docker Image Build and Push to Docker Hub
+
+on:
+  push:
+    branches:
+      - master
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    # Set up Docker 
+    - name: Set up Docker
+      uses: docker/setup-docker-action@v4.1.0
+    # Build the Docker image
+    - name: Build Docker image
+      run: |
+        docker build -f Dockerfile -t myapp:${{ github.sha }} .
