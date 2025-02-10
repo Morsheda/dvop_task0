@@ -19,7 +19,7 @@ def fetch_commits():
     page = 1
 
     while True:
-        response = requests.get(API_URL, headers=HEADERS, params={"per_page": 100, "page": page})
+        response = requests.get(API_URL, params={"per_page": 100, "page": page})
 
         if response.status_code == 403:
             print("API rate limit exceeded. Try again later.")
